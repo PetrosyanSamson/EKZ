@@ -2291,7 +2291,7 @@
 .button {
     width: 100px;
     height: 25px;
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0);
     color: white;
     /* CSS-трансформация, все свойства будут плавно меняться одну секунду */
     transition: all 1s ease;
